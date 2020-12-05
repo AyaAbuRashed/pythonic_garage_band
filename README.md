@@ -12,4 +12,4 @@ Band is the super class and other classes of (Musicians) in subclasses
  1 - play_solo()
  2 - get_instrument()
 
-PR <"  ">
+PR <"   ">
